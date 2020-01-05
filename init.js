@@ -1,6 +1,6 @@
 const init = async () => {
 
-  window.state = await fetch('./class-data/index.json')
+  window.state = await fetch('./data/index.json')
     .then(resp => resp.json())
     .catch(err => {
       console.log(err);
@@ -8,7 +8,7 @@ const init = async () => {
     });
   if (window.state instanceof Error) return;
 
-  state.students = await fetch('./class-data/students.json')
+  state.students = await fetch('./data/students.json')
     .then(resp => resp.json())
     .catch(err => {
       console.log(err);
@@ -16,7 +16,7 @@ const init = async () => {
     });
   if (window.state.students instanceof Error) return;
 
-  state.modules = await fetch('./class-data/modules.json')
+  state.modules = await fetch('./data/modules.json')
     .then(resp => resp.json())
     .catch(err => {
       console.log(err);
@@ -71,14 +71,16 @@ const init = async () => {
   document.getElementById('class-name').innerHTML = state.repoName;
 
   const repoButton = document.createElement('button');
-  repoButton.innerHTML = 'to main repository';
+  repoButton.innerHTML = 'to class wiki';
 
   const a = document.createElement('a');
-  a.href = "https://github.com/" + state.userName + "/" + state.repoName;
+  a.href = "https://github.com/" + state.userName + "/" + state.repoName + '/wiki';
   a.target = "_blank";
   a.appendChild(repoButton);
 
-  document.getElementById('to-main-repo').appendChild(a);
+  document.getElementById('top-buttons').appendChild(a);
+  document.getElementById('bottom-buttons').appendChild(a.cloneNode(true));
+
 
   document.getElementById('go-home-top').onclick = async () => {
     document.getElementById('root').innerHTML = '';
