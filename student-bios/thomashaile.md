@@ -17,10 +17,9 @@
 ---
 ## _hobbies:_
 
-- 
 - _Walking_
 - _watching Movies_
--_Listening Music_
+- _Listening Music_
   ---
  ## _Education and Certfications:_
  
@@ -31,4 +30,4 @@
 - _Diploma in Advanced Networking_
 - _Penetration Testing and Ethical Hacking_
 - _Web Development in PHP and Html_
-:like::hello: :heart:
+
