@@ -21,4 +21,4 @@ ___
 > * *Love history and sience* 
 > * *Very happy to be a student of __HYF__*
 ___
-[GitHub](https://github.com/KLisabeth)
+[GitHubProfile](https://github.com/KLisabeth)
