@@ -6,7 +6,7 @@
 
 ## **_Personal Deatils:_**
 
-* **Name :** *_thomas haile_*
+* **Name :** *_Thomas Haile_*
   
 * **Date of birth :** _07/March/1993_
   
@@ -31,11 +31,11 @@
  ## _My Certfication:_
  
   ---
--_HCNA(Huawei Certfied Network Associate)_
--_CCNA(Cisco Certfied Network Associate)_
--_Diploma in Advanced Networking_
--_Penetration Testing and Ethical Hacking
--_Web Development in PHP and Html
+- _HCNA(Huawei Certfied Network Associate)_
+- _CCNA(Cisco Certfied Network Associate)_
+- _Diploma in Advanced Networking_
+- _Penetration Testing and Ethical Hacking_
+- _Web Development in PHP and Html_
 
 
 
