@@ -6,7 +6,7 @@
 
 ## **_Personal Deatils:_**
 
-* **Name :** *_Thomas Haile_*
+* **Name :** *_Thomas Haile_* :smiley:
   
 * **Date of birth :** _07/March/1993_
   
@@ -36,3 +36,4 @@
 - _Penetration Testing and Ethical Hacking_
 - _Web Development in PHP and Html_
 
+[link to my github](https://github.com/thomashaile/
