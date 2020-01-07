@@ -2,7 +2,7 @@
 ![thomashaile](https://ibb.co/Jq24HSf)
 # THOMAS's Bio
 
-![My Profile Photo](https://cdn.glitch.com/)
+![My Profile Photo](https://ibb.co/Jq24HSf)
 ---
 
 ## **_Personal Deatils:_**
