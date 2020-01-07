@@ -20,6 +20,7 @@
 - _Walking_
 - _watching Movies_
 - _Listening Music_
+
   ---
  ## _Education and Certfications:_
  
