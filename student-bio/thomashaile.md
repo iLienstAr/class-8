@@ -1,4 +1,9 @@
-# Student Bios
+
+![ThomasHaile]()
+![ThomasHaile](https://www.facebook.com/photo.php?fbid=2041513045922389&set=a.352116688195375&type=3&theater)
+
+
+# My Bios
 
 This folder will soon contain a markdown from each and every one of you. Horrah for Pull Requests!
 
