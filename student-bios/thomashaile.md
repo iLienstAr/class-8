@@ -4,9 +4,9 @@
 ![My Profile Photo](https://avatars0.githubusercontent.com/u/59530856?s=460&v=4)
 ---
 
-## **_Personal Deatils:_**
+## **_Personal Deatils:_** :happy:
 
-* **Name :** *_Thomas Haile_* :smiley:
+* **Name :** *_Thomas Haile_* 
   
 * **Date of birth :** _07/March/1993_
   
@@ -36,4 +36,4 @@
 - _Penetration Testing and Ethical Hacking_
 - _Web Development in PHP and Html_
 
-[link to my github](https://github.com/thomashaile/
+[link to my github](https://github.com/thomashaile/)
