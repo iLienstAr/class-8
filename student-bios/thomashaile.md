@@ -1,5 +1,5 @@
 #Gebrehiwet, Thomas Haile Bio#
-![thomashaile](https://www.facebook.com/photo.php?fbid=2041513045922389&set=a.352116688195375&type=3&theater)
+![thomashaile](https://ibb.co/Jq24HSf)
 # THOMAS's Bio
 
 ![My Profile Photo](https://cdn.glitch.com/)
@@ -21,6 +21,7 @@
 - _Sport_
 - _watching tech talks_
 - _FOOD & FILM_
+-_Music_
  
 
 ## _Playing Video Games_
@@ -28,4 +29,7 @@
   - Memory Games 
 
   ---
+  | My Certfications |
+  ---
+  
 
