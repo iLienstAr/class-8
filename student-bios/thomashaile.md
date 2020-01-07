@@ -13,6 +13,7 @@
 * **Nationality :** _Eritrea_  
 * **Marital status :** _single_
 
+
 ---
 ## _hobbies:_
 
@@ -27,11 +28,14 @@
   - Memory Games 
 
   ---
- ##_My Certfication:_
+ ## _My Certfication:_
  
   ---
 -_HCNA(Huawei Certfied Network Associate)_
-
+-_CCNA(Cisco Certfied Network Associate)_
+-_Diploma in Advanced Networking_
+-_Penetration Testing and Ethical Hacking
+-_Web Development in PHP and Html
 
 
 
