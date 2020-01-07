@@ -2,7 +2,7 @@
 ![thomashaile](https://ibb.co/Jq24HSf)
 # THOMAS's Bio
 
-![My Profile Photo](https://ibb.co/Jq24HSf)
+![My Profile Photo](https://avatars0.githubusercontent.com/u/59530856?s=460&v=4)
 ---
 
 ## **_Personal Deatils:_**
