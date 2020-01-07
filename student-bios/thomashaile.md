@@ -1,5 +1,4 @@
-#Gebrehiwet, Thomas Haile Bio#
-![thomashaile](https://ibb.co/Jq24HSf)
+
 # THOMAS's Bio
 
 ![My Profile Photo](https://avatars0.githubusercontent.com/u/59530856?s=460&v=4)
@@ -12,9 +11,8 @@
 * **Date of birth :** _07/March/1993_
   
 * **Nationality :** _Eritrea_  
-* **Marital status :** _single_ 
+* **Marital status :** _single_
 
-  
 ---
 ## _hobbies:_
 
@@ -29,7 +27,11 @@
   - Memory Games 
 
   ---
-  | My Certfications |
+ ##_My Certfication:_
+ 
   ---
-  
+-_HCNA(Huawei Certfied Network Associate)_
+
+
+
 
