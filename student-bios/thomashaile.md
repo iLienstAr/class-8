@@ -4,7 +4,7 @@
 ![My Profile Photo](https://avatars0.githubusercontent.com/u/59530856?s=460&v=4)
 ---
 
-## **_Personal Deatils:_** :happy:
+## **_Personal Deatils:_** :like: :cub: :bulb:
 
 * **Name :** *_Thomas Haile_* 
   
