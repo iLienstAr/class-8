@@ -4,29 +4,29 @@
 ![My Profile Photo](https://avatars0.githubusercontent.com/u/59530856?s=460&v=4)
 ---
 
-## **_Personal Deatils:_** :like: :cub: :bulb:
+## **_Personal Deatils:_** :bulb:
 
 * **Name :** *_Thomas Haile_* 
   
-* **Date of birth :** _07/March/1993_
+* **Date of birth :** _07/March/1993_ :candle:
   
-* **Nationality :** _Eritrea_  
+* **Nationality :** _Eritrea_ :eritrea: 
 * **Marital status :** _single_
 * :telephone: **Contact No :** _+32465462095_ 
 * :e-mail: **Email :** _gthomashaile@gmail.com_
 
 
 
-
 ---
-## _hobbies:_
+## _hobbies:_ :soccer: 
 
-- _Walking_
+- _Walking_ 
 - _watching Movies_
 - _Listening Music_
+- _Soccer_
 
   ---
- ## _Education and Certfications:_
+ ## _Education and Certfications:_ :book:
  
   ---
 - _Bsc In Information Technology_
@@ -36,4 +36,4 @@
 - _Penetration Testing and Ethical Hacking_
 - _Web Development in PHP and Html_
 
-[link to my github](https://github.com/thomashaile/)
+:smiley:[link to my github](https://github.com/thomashaile/)
