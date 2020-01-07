@@ -31,10 +31,10 @@
  ## _Education and Certfications:_
  
   ---
+- _Bsc In Information Technology_
 - _HCNA(Huawei Certfied Network Associate)_
 - _CCNA(Cisco Certfied Network Associate)_
 - _Diploma in Advanced Networking_
 - _Penetration Testing and Ethical Hacking_
 - _Web Development in PHP and Html_
-
-!heart!
+:like::hello::tel:
