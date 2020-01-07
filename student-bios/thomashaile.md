@@ -12,8 +12,8 @@
   
 * **Nationality :** _Eritrea_  
 * **Marital status :** _single_
-* **Contact No :** _+32465462095_ :heart:
-* **Email :** _gthomashaile@gmail.com_
+* :telephone: **Contact No :** _+32465462095_ 
+* :e-mail: **Email :** _gthomashaile@gmail.com_
 
 
 
