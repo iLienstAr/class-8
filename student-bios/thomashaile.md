@@ -17,16 +17,10 @@
 ---
 ## _hobbies:_
 
-- _Sport_
-- _watching tech talks_
-- _FOOD & FILM_
--_Music_
- 
-
-## _Playing Video Games_
-  - Action Games 
-  - Memory Games 
-
+- 
+- _Walking_
+- _watching Movies_
+-_Listening Music_
   ---
  ## _Education and Certfications:_
  
@@ -37,4 +31,4 @@
 - _Diploma in Advanced Networking_
 - _Penetration Testing and Ethical Hacking_
 - _Web Development in PHP and Html_
-:like::hello::tel:
+:like::hello: :heart:
