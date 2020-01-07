@@ -28,7 +28,7 @@
   - Memory Games 
 
   ---
- ## _My Certfication:_
+ ## _Education and Certfications:_
  
   ---
 - _HCNA(Huawei Certfied Network Associate)_
@@ -37,5 +37,4 @@
 - _Penetration Testing and Ethical Hacking_
 - _Web Development in PHP and Html_
 
-
-
+!heart!
