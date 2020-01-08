@@ -13,7 +13,7 @@ This folder will soon contain a markdown from each and every one of you. Horrah 
 2. Fork this repository to your github account
     * [forking](https://guides.github.com/activities/forking/)
     * [fork vs. clone](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=20&cad=rja&uact=8&ved=2ahUKEwihx9DwkMrhAhVNbVAKHZ4bCEIQFjATegQIABAB&url=https%3A%2F%2Fgithub.community%2Ft5%2FSupport-Series%2FThe-Difference-Between-Forking-and-Cloning-a-Repository%2Fba-p%2F1372&usg=AOvVaw0PCFTCp62bxxeTPAQgW9h4)
-3. Create a new file in the ./student-bios folder:
+3. Create a new file in the ./student-bios folder (__on your fork!__):
     * __important__: Use your GitHub username as the name of your file. ie. `colevanderswands.md`
     * Embed the image you uploaded in your issue [as described in this link](http://blog.davidebbo.com/2014/11/using-issues-for-github-pages-screenshots.html)
     * Include a link to you github account

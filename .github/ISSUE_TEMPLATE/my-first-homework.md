@@ -18,4 +18,4 @@ assignees: ''
 - [ ] (computer) Start an HYF Directory
 - [ ] [My bio on the class repo](https://github.com/hackyourfuturebelgium/class-7/blob/master/student-bios/your-user-name.md)
 - [ ] [Hack My Future](https://github.com/your-user-name/hack-my-future)
-- [ ] [Markdown Home Page](your-user-name.github.io) - my multi-page markdown home portfolio, live on github pages
+- [ ] [Markdown Home Page](https://your-user-name.github.io) - my multi-page markdown home portfolio, live on github pages
