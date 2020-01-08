@@ -13,7 +13,7 @@
 * **Nationality :** _Eritrea_ :eritrea: 
 * **Marital status :** _single_
 * :telephone: **Contact No :** _+32465462095_ 
-* :e-mail: **Email :** _gthomashaile@gmail.com_
+* :e-mail: **Email :** _gthomashaile@gmail.com_ :pen:
 
 
 
@@ -36,4 +36,5 @@
 - _Penetration Testing and Ethical Hacking_
 - _Web Development in PHP and Html_
 
-:smiley:[link to my github](https://github.com/thomashaile/)
+### you can :eye: my link to github ###
+[here](https://github.com/thomashaile/) 
