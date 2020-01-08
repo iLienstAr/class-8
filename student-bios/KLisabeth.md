@@ -3,6 +3,7 @@ ___
 ___
 ![My Picture](https://user-images.githubusercontent.com/58074853/71897434-de046580-3156-11ea-9dae-db9c4d33b41a.jpg)
 ___
+
 ## *Kateryna Boichuk/Lisabeth*
 **CONTACTS**    
 
