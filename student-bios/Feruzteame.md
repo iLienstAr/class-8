@@ -15,7 +15,8 @@ Mathematics Education | 2015 - 2016 | mai-nefhi EIT
 Open Design Course | 2019 | Gent 
 
 >You can find me in 
-<a href="https://github.com/Feruzteame"> Github</a> 
+>
+><a href="https://github.com/Feruzteame"> Github</a> 
 >
 <teamefitwi@gmail.com> 
 
