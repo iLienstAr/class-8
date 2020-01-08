@@ -18,6 +18,6 @@ Open Design Course | 2019 | Gent
 >
 ><a href="https://github.com/Feruzteame"> Github</a> 
 >
-<teamefitwi@gmail.com> 
+><teamefitwi@gmail.com> 
 
 ***Always i believe THERE IS NOTHING IMPOSSIBLE IN LIFE !***
