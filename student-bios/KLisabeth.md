@@ -22,3 +22,7 @@ ___
 > * *Very happy to be a student of __HYF__*
 ___
 [GitHubProfile](https://github.com/KLisabeth)
+ 
+Birthday | Place of birth
+---|---
+10 Mar 1983 | Ukraine
