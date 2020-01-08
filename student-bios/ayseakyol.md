@@ -1,8 +1,9 @@
 
 <html>
-<img src="https://raw.githubusercontent.com/ayseakyol/class-8/master/student-bios/ayseakyol.jpg" alt="ayseakyol-foto" height="220" width="230">
+<img src="https://raw.githubusercontent.com/ayseakyol/class-8/master/student-bios/ayse.jpg" alt="ayseakyol-foto" height="220" width="230">
   </html>
-
+  
+  
 # AYSE AKYOL
 -----------------
 ## Web Developer :smiley:
