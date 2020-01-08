@@ -1,5 +1,5 @@
 # Luis Alejandro Montilla
-![image](https://user-images.githubusercontent.com/59319966/71840444-9f6e9c80-30bd-11ea-848e-216341e9ee3d.jpg)
+![image](https://user-images.githubusercontent.com/59319966/71984883-00b37e80-322a-11ea-8918-174045d3c0df.jpg)
 
 
 **I am really excited to be part of class #8 of Hack Your Future Belgium!**
