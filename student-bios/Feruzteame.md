@@ -14,10 +14,8 @@ Soil science | 2009 - 2011 | Hagaz agro tech school
 Mathematics Education | 2015 - 2016 | mai-nefhi EIT 
 Open Design Course | 2019 | Gent 
 
->To care my My Family is the best thing for me. 
->
->And to doing my passion is the second important thing for me.
-    
->You can find me in <a href="https://github.com/Feruzteame"> Github account</a> and <teamefitwi@gmail.com> 
+>You can find me in 
+<a href="https://github.com/Feruzteame"> Github account</a> 
+<teamefitwi@gmail.com> 
 
 ***Always i believe THERE IS NOTHING IMPOSSIBLE IN LIFE !***
