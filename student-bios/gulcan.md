@@ -21,5 +21,5 @@ Social Studies Teacher
 | ------------- |:-------------:| 
 | __Languages__  | __Level__ | 
 | English | b1  |  
-| Nederlands| b2 |  
-|Arabic|a2
+| Nederlands | b2 |  
+| Arabic | a2
