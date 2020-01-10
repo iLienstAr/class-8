@@ -9,7 +9,7 @@ ___
 
 * :telephone_receiver: 0465558585                                             
 * :e-mail: professional.translations4ppl@gmail.com                            
-* :house: Lambermonlaan 177/1 Schaarbeek, Brussel 1030
+* :house: Schaarbeek, Brussel 1030
 
 ___
 > **ABOUT ME**
