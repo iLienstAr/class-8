@@ -25,4 +25,7 @@ assignees: ''
 ### Exercises:
 
 - [ ] exercise name: [repo](https://github.com/user-name/repo-name), [live (if there is)]()
+- [ ] exercise name: [repo](https://github.com/user-name/repo-name), [live (if there is)]()
 - [ ] ...
+
+> [Follow this link](https://github.com/HackYourFutureBelgium/class-6/issues/59) to study a well-done homework issue.
