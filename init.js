@@ -40,4 +40,6 @@ export default async () => {
 
   console.log('initial state:', state);
 
+  document.head.getElementsByTagName('title')[0].innerText = state.repoName;
+
 };
