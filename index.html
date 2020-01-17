@@ -9,39 +9,18 @@
 
   <script type='module'>
     import app from "https://hackyourfuture.be/class-overview-app/index.js"
+    import init from "./init.js"
 
     window.classOverview = app;
-  </script>
-  <script src='./init.js'></script>
-
-  <script>
     window.onload = init;
   </script>
 </head>
 
 <body>
 
-  <h1 id='class-name'></h1>
-
-  <hr>
-
-  <div id='top-buttons'>
-    <button id='go-home-top'>back to index</button>
-  </div>
-  <br>
-  <br>
-
   <div id='root'></div>
 
   <br>
-  <br>
-
-  <div id='bottom-buttons'>
-    <button id='go-home-bottom'>back to index</button>
-  </div>
-
-  <br>
-
   <hr>
   <hr>
   <a href="https://hackyourfuture.be" target="_blank"><img
