@@ -3,15 +3,15 @@
     "name": "Tiago Mendes-Costa",
     "userName": "otagi",
     "modules": [
-      1
+      "incremental-development"
     ]
   },
   {
     "name": "IBRAHIM DOGRUSOZ",
     "userName": "idogrusoz",
     "modules": [
-      0,
-      1
+      "working-with-code",
+      "incremental-development"
     ]
   }
 ]
