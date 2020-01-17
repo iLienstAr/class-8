@@ -3,36 +3,76 @@
     "number": 0,
     "name": "working-with-code",
     "status": "in progress",
-    "board": 1
-  },
-  {
-    "number": 1,
-    "name": "incremental-development",
-    "status": "in progress",
-    "board": 2
+    "board": 1,
+    "weeks": 1,
+    "projects": [
+      {
+        "name": "/student-bios Pull Request",
+        "source": "https://github.com/HackYourFutureBelgium/<class-name>/tree/master/student-bios/<user-name>.md"
+      },
+      {
+        "name": "hack-my-future"
+      },
+      {
+        "name": "<user-name>.github.io",
+        "live": "https://<user-name>.github.io"
+      }
+    ]
   },
   {
     "number": 2,
     "name": "separation-of-concerns",
     "status": "to do",
-    "board": 3
+    "board": 3,
+    "weeks": 3
   },
   {
     "number": 3,
     "name": "state",
     "status": "to do",
-    "board": 4
+    "board": 4,
+    "weeks": 3
   },
   {
     "number": 4,
     "name": "encapsulation",
     "status": "to do",
-    "board": 5
+    "board": 5,
+    "weeks": 3
   },
   {
     "number": 5,
     "name": "public-apis",
     "status": "to do",
-    "board": 6
+    "board": 6,
+    "weeks": 3
+  },
+  {
+    "number": 6,
+    "name": "frontend-frameworks",
+    "status": "to do",
+    "board": 7,
+    "weeks": 3
+  },
+  {
+    "number": 7,
+    "name": "web-apps",
+    "status": "to do",
+    "board": 8,
+    "weeks": 4
+  },
+  {
+    "number": 8,
+    "name": "data-modeling",
+    "status": "to do",
+    "board": 9,
+    "weeks": 2
+  },
+  {
+    "number": 9,
+    "name": "collaborative-development",
+    "status": "to do",
+    "board": 10,
+    "weeks": 6
   }
 ]
