@@ -1,40 +1,36 @@
 [
   {
+    "number": 0,
     "name": "working-with-code",
     "status": "in progress",
     "board": 1
   },
   {
+    "number": 1,
     "name": "incremental-development",
     "status": "in progress",
-    "board": 2,
-    "coaches":[
-      {
-        "name": "Tiago Mendes-Costa",
-        "userName": "otagi"
-      },
-      {
-        "name": "IBRAHIM DOGRUSOZ",
-        "userName": "idogrusoz"
-      }
-    ]
+    "board": 2
   },
   {
+    "number": 2,
     "name": "separation-of-concerns",
     "status": "to do",
     "board": 3
   },
   {
+    "number": 3,
     "name": "state",
     "status": "to do",
     "board": 4
   },
   {
+    "number": 4,
     "name": "encapsulation",
     "status": "to do",
     "board": 5
   },
   {
+    "number": 5,
     "name": "public-apis",
     "status": "to do",
     "board": 6

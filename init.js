@@ -11,16 +11,16 @@ export default async () => {
     }
   }
 
-  const preState = await load('./data/index.json');
+  const preState = await load('./class-data/index.json');
   if (preState instanceof Error) return;
 
-  preState.students = await load('./data/students.json');
+  preState.students = await load('./class-class-data/students.json');
   if (preState.students instanceof Error) return;
 
-  preState.coaches = await load('./data/coaches.json');
+  preState.coaches = await load('./class-data/coaches.json');
   if (preState.coaches instanceof Error) return;
 
-  preState.modules = await load('./data/modules.json');
+  preState.modules = await load('./class-data/modules.json');
   if (preState.modules instanceof Error) return;
 
   preState.modules.forEach(module => {
