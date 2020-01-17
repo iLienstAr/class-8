@@ -20,6 +20,13 @@
     ]
   },
   {
+    "number": 1,
+    "name": "incremental-development",
+    "status": "in progress",
+    "board": 2,
+    "weeks": 3
+  },
+  {
     "number": 2,
     "name": "separation-of-concerns",
     "status": "to do",
