@@ -13,5 +13,12 @@
       "working-with-code",
       "incremental-development"
     ]
+  },
+  {
+    "name": "Louise Picot",
+    "userName": "louisepicot",
+    "modules": [
+      "incremental-development"
+    ]
   }
 ]
