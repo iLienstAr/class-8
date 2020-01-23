@@ -6,4 +6,6 @@ I was a computer geek during my teens, and discovered programming with the [BASI
 
 I work at [Spreds](https://www.spreds.com/en), a small company that organizes private funding between local entrepreneurs and investors, doing web development with the [Ruby on Rails](https://rubyonrails.org) framework.
 
+In addition to HYF, I also try to help with the [RubyBelgium](https://rubybelgium.be) organization and the [Rails Girls](http://railsgirls.com) Brussels events.
+
 [LinkedIn](https://www.linkedin.com/in/otagi/), [Twitter](https://twitter.com/otagi)
