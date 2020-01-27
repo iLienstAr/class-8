@@ -18,7 +18,15 @@
     "name": "Louise Picot",
     "userName": "louisepicot",
     "modules": [
-      "incremental-development"
+      "incremental-development",
+      "separation-of-concerns"
+    ]
+  },
+  {
+    "name": "Fatma",
+    "userName": "fgsumer",
+    "modules": [
+      "separation-of-concerns"  
     ]
   }
 ]
