@@ -28,5 +28,12 @@
     "modules": [
       "separation-of-concerns"  
     ]
+  },
+  {
+    "userName": "greg-hermans",
+    "name": "Grégory",
+    "modules": [
+      "separation-of-concerns"  
+    ]
   }
 ]
