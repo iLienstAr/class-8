@@ -26,14 +26,21 @@
     "name": "Fatma",
     "userName": "fgsumer",
     "modules": [
-      "separation-of-concerns"  
+      "separation-of-concerns"
     ]
   },
   {
     "userName": "greg-hermans",
     "name": "Grégory",
     "modules": [
-      "separation-of-concerns"  
+      "separation-of-concerns"
+    ]
+  },
+  {
+    "userName": "KevinTss",
+    "name": "Kevin",
+    "modules": [
+      "state"
     ]
   }
 ]
