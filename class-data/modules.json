@@ -207,6 +207,7 @@
     "name": "state",
     "status": "in progress",
     "board": 4,
+    "milestone": 4,
     "weeks": 3
   },
   {
