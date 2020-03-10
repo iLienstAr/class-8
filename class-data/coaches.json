@@ -42,5 +42,19 @@
     "modules": [
       "state"
     ]
+  },
+  {
+    "userName": "helene-nextmoov",
+    "name": "Hélène",
+    "modules": [
+      "encapsulation"
+    ]
+  },
+  {
+    "userName": "bramdevries",
+    "name": "Bram",
+    "modules": [
+      "encapsulation"
+    ]
   }
 ]
